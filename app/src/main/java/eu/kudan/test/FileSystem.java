@@ -24,7 +24,7 @@ import java.net.URL;
 import java.util.concurrent.ExecutionException;
 
 public class FileSystem {
-    String serverIP = "http://112.173.202.189:10/"; //root's ip
+    String serverIP = "http://112.149.131.249:80/"; //root's ip
     //String serverIP = "http://175.202.158.167:10/"; //찬씨's ip
     String inServerfilePath = "C:\\wamp64\\www\\uploads/";
     String mostCurrentFileName="";

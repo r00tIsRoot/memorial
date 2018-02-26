@@ -96,7 +96,8 @@ public class CreateAccountActivity extends AppCompatActivity {
             String name = (String)params[2];
             String email = (String)params[3];
 
-            String serverURL = "http://112.173.202.189:10/insert.php";    //root's 자취방 고정ip
+            String serverURL = "http://112.149.131.249:80/insert.php";    //root's 집 고정ip
+            //String serverURL = "http://112.173.202.189:10/insert.php";    //root's 자취방 고정ip
             //String serverURL = "http://175.202.158.167:10/insert.php";  //찬씨's 자취방
             String postParameters = "id=" + id + "&pw=" + pw + "&name=" + name + "&email=" + email;
 

@@ -75,7 +75,7 @@ public class AccountFindActivity extends AppCompatActivity {
             Log.e("POST",param);
             try {
 /* 서버연결 */
-                String serverIp = "http://112.173.202.189:10/";//root's ip
+                String serverIp = "http://112.149.131.249:80/";//root's ip
                 //String serverIp = "http://175.202.158.167:10/"; //찬씨's ip
                 //URL url = new URL("https://175.202.158.167:10"); //찬씨's ip
                 if(!id.equals("") && !name.equals("") && !email.equals("")){

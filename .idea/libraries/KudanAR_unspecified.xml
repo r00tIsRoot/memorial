@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="KudanAR-unspecified">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/3d19fb91f1ced137b1b6f4e22b204c332958c269/output/jars/libs/cardboard.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/3d19fb91f1ced137b1b6f4e22b204c332958c269/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3d19fb91f1ced137b1b6f4e22b204c332958c269/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
